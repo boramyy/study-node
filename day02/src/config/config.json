@@ -1,0 +1,5 @@
+{
+  "name": "project_name",
+  "type": ["app", "mo", "pc"],
+  "feature": ["socialShare", "stamp", "vote"]
+}
